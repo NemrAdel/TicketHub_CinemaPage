@@ -38,6 +38,9 @@
     padding-bottom: 20px;
     margin-top: 18px;
   }
+h1:hover{
+  cursor: default;
+}
   .login form label {
     color: white;
     font-weight: bold;
